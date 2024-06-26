@@ -30,4 +30,4 @@ Additionally, a scatter plot comparing the actual prices to the predicted prices
 ##### ANY QUESTIONS ??:
 If you have any queries regarding the project.Feel free to contanct me 
 Email: magnel2001@gmail.com 
-LinkedIn Profile:LinkedIn
+
